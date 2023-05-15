@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <section
       id="contact"
-      className={`w-screen max-md:h-max max-md:py-10 h-screen bg-[url('/rec2.jpg')] bg-cover bg-no-repeat bg-bottom flex-col flex items-center`}
+      className={`w-screen max-md:h-max max-md:py-10 md:h-screen bg-[url('/rec2.jpg')] bg-cover bg-no-repeat bg-bottom flex-col flex items-center`}
     >
       <h1 className="text-7xl md:text-[11rem] text-center text-[#000] ">CONTACT</h1>
       <div className="flex items-center md:w-[80vw] max-lg:flex-col-reverse space-x-5 mx-auto justify-between">
